@@ -1,4 +1,8 @@
-Juan Perez;Oro;1500;95.5
-Maria Gomez;Plata;1200;88.0
-Carlos Ruiz;Diamante;2800;99.2
-Ana Lopez;Bronce;800;75.4
+Luis Martinez;Diamante;2950;98.1
+Sofia Castro;Inmortal;3500;99.4
+Diego Benitez;Oro;1650;89.2
+Elena Flores;Plata;1380;86.5
+Javier Mendoza;Platino;2100;91.3
+Camila Rojas;Bronce;750;72.1
+Mateo Silva;Diamante;2720;96.8
+Valeria Ortiz;Platino;2250;93.0
