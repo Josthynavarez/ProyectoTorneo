@@ -1,0 +1,4 @@
+Juan Perez;Oro;1500;95.5
+Maria Gomez;Plata;1200;88.0
+Carlos Ruiz;Diamante;2800;99.2
+Ana Lopez;Bronce;800;75.4
